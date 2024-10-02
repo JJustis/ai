@@ -1,0 +1,59 @@
+[
+    {
+        "uniqueID": "2f196cfcf4045dbcf42e5a95c16b23e92e2f909cb48a20ea07bbd2fd1a361d27",
+        "sentence": "Hello:noun",
+        "aiResponse": "AI response for sentence: Hello:noun"
+    },
+    {
+        "uniqueID": "259efc4aa9ac35ca54d703aacdb746fad440c64b4c2a269b3de3563cc5be1586",
+        "sentence": "hello:noun",
+        "aiResponse": "AI response for sentence: hello:noun"
+    },
+    {
+        "uniqueID": "259efc4aa9ac35ca54d703aacdb746fad440c64b4c2a269b3de3563cc5be1586",
+        "sentence": "hello:noun",
+        "aiResponse": "AI response for sentence: hello:noun"
+    },
+    {
+        "uniqueID": "993fd9f4e943e4a12563a412562f89bdf40cebbf51cfd01c264fe4d5f9cffcd0",
+        "sentence": "hi:interjection there:adverb",
+        "aiResponse": "AI response for sentence: hi:interjection there:adverb"
+    },
+    {
+        "uniqueID": "90a7e0b165ca5bc52ef4deee154fc5eff4cc422e210f98b350f63e528623f591",
+        "sentence": "hello:noun Bye:noun",
+        "aiResponse": "AI response for sentence: hello:noun Bye:noun"
+    },
+    {
+        "user": "hello there what are you?",
+        "ai": "are"
+    },
+    {
+        "user": "are",
+        "ai": ""
+    },
+    {
+        "user": "hello there what are you?",
+        "ai": "are"
+    },
+    {
+        "user": "are",
+        "ai": ""
+    },
+    {
+        "user": "hello there what are you?",
+        "ai": "are"
+    },
+    {
+        "user": "are",
+        "ai": ""
+    },
+    {
+        "user": "Are you computer?",
+        "ai": "Are you"
+    },
+    {
+        "user": "Are you",
+        "ai": ""
+    }
+]

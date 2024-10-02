@@ -1,0 +1,4 @@
+83a8652311db95b718fb6e0e818943898c34b8e91d11b5d15742e60ac28b2fe5|User: Hello ai|AI: ai|BrainJS: Simulated Brain.js response sentence based on structures.|HighScoringWords:Hello, ai
+83a8652311db95b718fb6e0e818943898c34b8e91d11b5d15742e60ac28b2fe5|User: Hello ai|AI: ai|BrainJS: Simulated Brain.js response sentence based on structures.|HighScoringWords:Hello, ai
+500554d7cb836f70250643160d1681f8db42ecdd8e240b190484e580909310c5|User: here|AI: here|BrainJS: Simulated Brain.js response sentence based on structures.|HighScoringWords:here
+500554d7cb836f70250643160d1681f8db42ecdd8e240b190484e580909310c5|User: here|AI: here|BrainJS: Simulated Brain.js response sentence based on structures.|HighScoringWords:here
